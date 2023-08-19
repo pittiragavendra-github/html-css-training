@@ -2,6 +2,8 @@ h1{
     font-size: 24px;
     font-family: sans-serif;
     text-transform: uppercase;
+
+    
 }
 
 h2{
@@ -9,8 +11,11 @@ h2{
     font-size: 40px;
 }
 
-h3{
-
+h4{
+ font-size: 20px;
+ font-style: italic;
+ text-transform: uppercase;
+ text-align: center;
 
 }
 p{
